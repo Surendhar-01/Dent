@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Dent",
+  "description": "AI-powered Dental Clinic Management Platform with advanced diagnostic tools and patient care tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered dental image analysis",
+    "Simulated doctor-patient chat",
+    "Appointment management",
+    "Orthodontic progress tracking"
+  ]
+}
